@@ -1,3 +1,12 @@
+/*
+ * 由@fishingworld编写
+ * 原脚本地址：https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/net_info.js
+ * 由Saltgossoon修改
+ * 更新日期：2022.10.25
+ * 版本：1.0
+*/
+
+
 ;(async () => {
 
 
