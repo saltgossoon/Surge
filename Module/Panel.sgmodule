@@ -1,6 +1,8 @@
 #!name=面板🥳
 #!desc=网络详情、流媒体解锁状态等～🥳
 
+#手动复制本内容到本地自建模块，到（https://www.urlencoder.org/）转换机场订阅后粘贴到机场流量的机场订阅处
+
 [Panel]
 #Surge Pro启动时间 手动刷新可配置重载
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=10
