@@ -1,6 +1,8 @@
 #!name=🌈策略面板
 #!desc=📍集合～
 
+#https://www.urlencoder.org/
+
 [Panel]
 策略面板 = script-name=Surge启动时长,update-interval=1
 策略面板 = script-name=节假日,update-interval=28800
